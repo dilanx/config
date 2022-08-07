@@ -1,6 +1,6 @@
 {
     "name": "@dilanx/config",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Default configuration for Dilan's projects",
     "prettier": "./prettier",
     "main": "index.js",
