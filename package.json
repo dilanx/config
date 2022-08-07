@@ -21,5 +21,8 @@
     "devDependencies": {
         "@types/prettier": "^2.7.0",
         "prettier": "^2.7.1"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
