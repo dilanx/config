@@ -1,28 +1,28 @@
 {
-    "name": "@dilanx/config",
-    "version": "1.0.1",
-    "description": "Default configuration for Dilan's projects",
-    "prettier": "./prettier",
-    "main": "index.js",
-    "files": [
-        "prettier"
-    ],
-    "scripts": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/dilanx/config.git"
-    },
-    "author": "Dilan Nair",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/dilanx/config/issues"
-    },
-    "homepage": "https://github.com/dilanx/config#readme",
-    "devDependencies": {
-        "@types/prettier": "^2.7.0",
-        "prettier": "^2.7.1"
-    },
-    "publishConfig": {
-        "access": "public"
-    }
+  "name": "@dilanx/config",
+  "version": "1.1.0",
+  "description": "Default configuration for Dilan's projects",
+  "prettier": "./prettier",
+  "main": "index.js",
+  "files": [
+    "prettier"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilanx/config.git"
+  },
+  "author": "Dilan Nair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dilanx/config/issues"
+  },
+  "homepage": "https://github.com/dilanx/config#readme",
+  "devDependencies": {
+    "@types/prettier": "^2.7.0",
+    "prettier": "^2.7.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
