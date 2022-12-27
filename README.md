@@ -1,4 +1,4 @@
-# dilanx default configuration
+# dilanx config
 
 ## Installation
 
